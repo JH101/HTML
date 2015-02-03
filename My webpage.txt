@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> How Do Web page? </title>
+<meta key words = "My" "Web page" "Page"/>
+</head>
+<body>
+<h1> 2Spooky5me </h1>
+<p> sample text </p>
+</body>
+</html>
